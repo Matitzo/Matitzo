@@ -1,8 +1,7 @@
-I am currently studying surveying and cartography, but while taking classes 
-I discovered that my new passion is programming. 
-I am mostly self-taught. So far I've managed to create a few projects, 
-which you can find on my profile.
-I want to develop my skills in programming and find a job as a programmer in the future.
+I have a strong passion for AI and data analytics. My biggest project was my engineering thesis about use of Artificial Intelligence in GIS (Geographic Information System) enviroment where I trained a deep learning model for grave detection (getting their footprint with location on map). Currently I am looking for my first job in IT.
+My hard skills: Python (Numpy, Pandas, Matplotlib, Tkinker, Pygame), MySql, Machine Learning, Deep Learning, Object Detection.
+
+E-mail: matitzo@o2.p
 
 <!---
 Matitzo/Matitzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
