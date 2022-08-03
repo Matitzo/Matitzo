@@ -1,4 +1,4 @@
-I have a strong passion for AI and data analytics. My biggest project was my engineering thesis about use of Artificial Intelligence in GIS (Geographic Information System) enviroment where I trained a deep learning model for grave detection (getting their footprint with location on map). I learnt programming during ma studies and loved it. I am very motivated to develop my skills in this field.  
+I have a strong passion for AI and data analytics. My biggest project was my engineering thesis about use of Artificial Intelligence in GIS (Geographic Information System) enviroment where I trained a deep learning model for grave detection (getting their footprint with location on map). I learnt programming during ma studies and loved it. I am very motivated to develop my skills in this field. You can find more informations about me in my CV.
   
  **Hard skills**:  
 - Python (Numpy, Pandas, Matplotlib, Tkinker, Pygame),  
