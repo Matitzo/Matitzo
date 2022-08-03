@@ -2,6 +2,7 @@ I have a strong passion for AI and data analytics. My biggest project was my eng
   
  **Hard skills**:  
 - Python (Numpy, Pandas, Matplotlib, Tkinker, Pygame),  
+- Data analysis,
 - MySql,  
 - Machine Learning,  
 - Deep Learning,
