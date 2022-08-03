@@ -8,7 +8,7 @@ I have a strong passion for AI and data analytics. My biggest project was my eng
 - Deep Learning,
 - Object Detection.
 
-E-mail: matitzo@o2.p
+E-mail: matitzo@o2.pl
 
 <!---
 Matitzo/Matitzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
