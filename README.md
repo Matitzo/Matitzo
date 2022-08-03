@@ -1,5 +1,10 @@
-I have a strong passion for AI and data analytics. My biggest project was my engineering thesis about use of Artificial Intelligence in GIS (Geographic Information System) enviroment where I trained a deep learning model for grave detection (getting their footprint with location on map). Currently I am looking for my first job in IT.
-My hard skills: Python (Numpy, Pandas, Matplotlib, Tkinker, Pygame), MySql, Machine Learning, Deep Learning, Object Detection.
+I have a strong passion for AI and data analytics. My biggest project was my engineering thesis about use of Artificial Intelligence in GIS (Geographic Information System) enviroment where I trained a deep learning model for grave detection (getting their footprint with location on map).
+ **Hard skills**:  
+Python (Numpy, Pandas, Matplotlib, Tkinker, Pygame),  
+MySql,  
+Machine Learning,  
+Deep Learning,
+Object Detection.
 
 E-mail: matitzo@o2.p
 
