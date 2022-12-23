@@ -23,7 +23,6 @@ My adventure with programming started in college where I was taught the basics o
 **E-mail: matitzo@o2.pl** <br />
 **Phone number: +48 695 092 670** <br />
 **LinkedIn: linkedin.com/in/mateusz-czyrzniak-6b81ab231**
-linkedin.com/in/mateusz-czyrzniak-6b81ab231
 <!---
 Matitzo/Matitzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
