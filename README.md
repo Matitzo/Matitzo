@@ -1,7 +1,7 @@
 Hi!
 I'm Mateusz. <br />
 I'm a self-taught frontend developer, with a specialization in React.js. I am currently in the final year of my master's degree in Geodesy and Cartography at the University of Warmia and Mazury. 
-My adventure with programming started in college where I was taught the basics of Python programming. I really liked to code, that's why I started to develop myself into a data scientist (I learnt Numpy, Pandas, SQL, Machine Learning and Deep Learning) and then as a Frontend Developer (I learned HTML5, CSS3, JavaScript and React.js). I've come a long way in a short time but I'm still very motivated to learn new things.
+My adventure with programming started in college where I was taught the basics of Python programming. I really liked to code, that's why I started to develop myself into a data scientist (I learnt Numpy, Pandas, SQL, Machine Learning and Deep Learning) and then as a Frontend Developer (I learned HTML5, CSS3, JavaScript and React.js).
 
 
 
