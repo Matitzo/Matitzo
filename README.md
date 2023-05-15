@@ -12,8 +12,7 @@ My adventure with programming started in college where I was taught the basics o
 - CSS
 
  **Data Scientist Hard skills:**
-- Python (Numpy, Pandas, Matplotlib, Tkinker, Pygame),  
-- Data analysis,
+- Python (Numpy, Pandas),  
 - MySql,  
 - Machine Learning,  
 - Deep Learning,
